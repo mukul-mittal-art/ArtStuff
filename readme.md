@@ -12,7 +12,7 @@ Languages used: CSS and HTML
 
 # What does it do?
 makes me happy. (jk)
-It's a project that showcases
+It's a project that showcases MY artworks.
 
 # How did i make it?
 * I made a rough sketch on paper on how i want it to look
@@ -35,7 +35,7 @@ None at all.
 ![Screenshot 1](Screenshot/screen1.jpg)
 ![Screenshot 2](Screenshot/screen2.jpg)
 ![Screenshot 3](screenshot/screen3.jpg) 
-        
+
 # How to run the project locally                                                                                        
 Clone and run this repository:
 ```bash
