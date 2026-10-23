@@ -32,11 +32,11 @@ These were some of the major problems i faced, among countless minor ones that i
 None at all.
 
 # Screenshots
-![Screenshot 1](screenshot/screen1.jpg)
-![Screenshot 2](sscreenshot/screen2.jpg)
-![Screenshot 3](screenshot/screen3.jpg)
-
-# How to run the project locally
+![Screenshot 1](Screenshot/screen1.jpg)
+![Screenshot 2](Screenshot/screen2.jpg)
+![Screenshot 3](screenshot/screen3.jpg) 
+        
+# How to run the project locally                                                                                        
 Clone and run this repository:
 ```bash
 git clone [https://github.com/mukul-mittal-art/Mukulandmaachis.git](https://github.com/mukul-mittal-art/Mukulandmaachis.git)
