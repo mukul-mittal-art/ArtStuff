@@ -17,10 +17,52 @@
     display: flex;
     letter-spacing: 0.1vw;
     margin-top: 1vw;
-    margin-bottom: 2vw;
+    margin-bottom: 2.5vw;
     text-shadow:#B96201 1px 0 10px;
+    transition: transform 0.3s ease;
+}
+.ArtStuff:hover {
+    transform: translateY(-2px) scale(1.05);
+    color: antiquewhite;
+    text-shadow: antiquewhite 1px 0 10px;
 }
 .meripicture {
-    width: 100%;
-    opacity: 0.8;
+    width: 44vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    flex-wrap: wrap;
+    justify-items: center;
+    border-color: #B96201;
+    border-width: 2px;
+    transition: transform 0.3s ease;
+    border: #B96201 0.2vw solid;
+    
+   }
+.meripicture:hover {
+    transform: translateY(-2px) scale(1.05);
+    border: antiquewhite 0.2vw dotted;
+}
+.introtext {
+    color: #B96201;
+    text-shadow:#B96201 1px 0 10px;
+    font-family: monospace ;
+    position: relative;
+    text-align: center;
+    background-color: rgb(7, 7, 7) ;
+    opacity: 0.;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4vw;
+    transition: transform 0.3s ease;
+    border: #B96201 0.2vw solid;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+} 
+.introtext:hover {
+    transform: translateY(-2px) scale(1.05);
+    color: antiquewhite;
+    text-shadow: antiquewhite 1px 0 10px;
+    border: antiquewhite 0.2vw dotted;
 }
