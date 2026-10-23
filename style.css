@@ -1,0 +1,26 @@
+.bodi {
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: black;
+    background-image:
+    linear-gradient(to right, rgba(255,255,255,0.5) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.5) 1px, transparent 1px);
+    justify-content: center;
+    align-items: center;
+    background-size: 3vw 3vw;
+}
+
+.ArtStuff {
+    color: #B96201;
+    font-size: 10vw;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    display: flex;
+    letter-spacing: 0.1vw;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+    text-shadow:#B96201 1px 0 10px;
+}
+.meripicture {
+    width: 100%;
+    opacity: 0.8;
+}
