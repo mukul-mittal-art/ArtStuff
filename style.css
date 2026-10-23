@@ -9,6 +9,7 @@
     align-items: center;
     background-size: 3vw 3vw;
 }
+
 /* MAIN HEADING */
 .ArtStuff {
     color: #202041;
@@ -26,6 +27,7 @@
     color: antiquewhite;
     text-shadow: antiquewhite 1px 0 10px;
 }
+
 /* MAIN PICTURE */
 .meripicture {
     width: 44vw;
@@ -44,6 +46,7 @@
     transform: translateY(-2px) scale(1.05);
     border: antiquewhite 0.2vw dotted;
 }
+
 /* INTROTEXT */
 .introtext {
     color: #202041;
@@ -68,6 +71,7 @@
     text-shadow: antiquewhite 1px 0 10px;
     border: antiquewhite 0.2vw dotted;
 }
+
 /* MY ARTWORKS TEXT */
 .myartworks {
     color: #202041;
@@ -85,6 +89,7 @@
     color: antiquewhite;
     text-shadow: antiquewhite 1px 0 10px;
 } 
+
 /* ALL MY ARTWORKS */
 .artworks {
     margin-left: auto;
